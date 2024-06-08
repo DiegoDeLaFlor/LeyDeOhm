@@ -1,2 +1,4 @@
-# LeyDeOhm
-Uso de prompt para crear una calculadora de la Ley De Ohm para el curso de Metodologías Ágiles
+# WORKBOOK
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Diego-De-La-Flor/pen/gOJxMmZ](https://codepen.io/Diego-De-La-Flor/pen/gOJxMmZ).
+
